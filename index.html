@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Framework -->
+        <!-- VueJS -->
+        <script src="https://unpkg.com/vue"></script>
+        <!-- Axios -->
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+        <!-- jQuery, Popper.js and Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <!-- FontAwesome -->
+        <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Saira+Semi+Condensed" rel="stylesheet" />
+        <!-- Meta -->
+        <link href='http://www.sebastian-zimmermann.ch/favicon.ico' rel='icon' type='image/x-icon' />
+        <link href='http://www.sebastian-zimmermann.ch/' rel='canonical' />
+        <meta content='Persönliche Webseite von Sebastian Zimmermann' name='description'/>
+        <meta content='http://www.sebastian-zimmermann.ch/' property='og:url'/>
+        <meta content='Sebastian Zimmermann' property='og:title'/>
+        <meta content='Webseite von Sebastian Zimmermann' property='og:description'/>
+        <title>Sebastian Zimmermann</title>
+        <!-- Blogger skin tag -->
+        <b:skin><![CDATA[
+        ]]></b:skin>
+        <!-- CSS -->
+        <style type="text/css">
+        #sideNav {
+            font-family:'Roboto',serif;
+        }
+        h1,h2,h3,h4,h5,h6{
+            font-family:'Saira Semi Condensed', sans-serif;
+            font-weight:700;
+            text-transform:uppercase;
+            color:#343a40
+        }
+        h1{
+            font-size:6rem;
+            line-height:5.5rem
+        }
+        h2{
+            font-size:3.5rem;
+            line-height:6rem
+        }
+        body{
+            font-family:'Open Sans',serif;
+            /* padding-top:54px; */
+            /* color:#868e96 */
+        }
+        @media (min-width:992px){
+            body{
+                padding-top:0;
+                /* padding-left:17rem */
+            }
+        }
+        .subheading {
+            text-transform:uppercase;
+            font-weight:500;
+            font-family:'Saira Semi Condensed',sans-serif;
+            font-size:1.35rem
+        }
+        #sideNav .navbar-nav .nav-item .nav-link{
+            font-weight:600;
+            text-transform:uppercase
+        }
+        @media (min-width:992px){
+            #sideNav{
+                text-align:center;
+                position:fixed;
+                top:0;
+                left:0;
+                display:flex;
+                flex-direction:column;
+                width:17rem;
+                height:100vh
+            }
+            #sideNav .navbar-brand{
+                display:flex;
+                margin:auto auto 0;
+                padding:.5rem
+            }
+            #sideNav .navbar-brand .img-profile{
+                max-width:10rem;
+                max-height:10rem;
+                border:.5rem solid rgba(255,255,255,.2)
+            }
+            #sideNav .navbar-collapse{
+                display:flex;
+                align-items:flex-start;
+                flex-grow:0;
+                width:100%;
+                margin-bottom:auto
+            }
+            #sideNav .navbar-collapse .navbar-nav{
+                flex-direction:column;
+                width:100%
+            }
+            #sideNav .navbar-collapse .navbar-nav .nav-item{
+                display:block
+            }
+            #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{
+                display:block
+            }
+        }
+        section .onePanelView {
+            min-height: 100vh;
+            padding-bottom: 15px;
+        }
+        .bg-primary {
+            background-color:#0a5986!important
+        }
+        .text-primary {
+            color:#0a5986!important
+        }
+        a {
+            color:#343a40
+        }
+        a:active,a:focus,a:hover {
+            color:#5a5d61
+        }
+        .extraBottomPadding {
+            padding-bottom: 50px;
+        }
+
+        /* Gist appearance */
+        body .gist .gist-meta {
+            display: none;
+        }
+
+        /* div .test {
+            border-color:red;
+            border-style:solid;
+        } */
+        </style>
+    </head>
+    <body class="bg-light">
+        <div id="app">
+            <!-- About -->
+            <section id="about">
+                <div class="container">
+                    <div class="row onePanelView">
+                        <div class="col align-self-center">
+                            <h1 class="text-center"><span class="text-primary">Sebastian</span> Zimmermann</h1>
+                            <br />
+                            <blockquote class="blockquote">
+                                <p class="mb-0 text-right">The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing.</p>
+                                <footer class="blockquote-footer text-right">Albert Einstein <cite title="Source Title">(1879 - 1955)</cite></footer>
+                            </blockquote>
+                            <br />
+                            <ul class="list-inline text-center">
+                                <li class="list-inline-item" data-toggle="tooltip" data-placement="left" title="Hit me up on Github!">
+                                    <a href="https://github.com/SebZiHub" target="_blank">
+                                        <span class="fa-layers fa-fw">
+                                            <i class="fas fa-circle fa-2x"></i>
+                                            <i class="fa-inverse fab fa-github fa-1x" data-fa-transform="shrink-1 right-6"></i>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Contact -->
+            <section id="contact">
+                <div class="container onePanelView">
+                    <div class="row">
+                        <div class="col-6">
+                            <h2>Contact</h2>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <!-- Custom form overlay for Google Forms -->
+                            <form name='contact-form' id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLScXFRvzCKE3P_Y93hjjTa_AEcg6EikobMIXOZpkxxP5Qy_dAw/formResponse">
+                                <div class="form-group row">
+                                    <label for="contact-name" class="col-sm-2 col-form-label">Your name:</label>
+                                    <div class="col-sm-10"><input id="contact-name" class="form-control" name="entry.1756976316" /></div>
+                                </div>
+                                <div class="form-group row">
+                                    <label for="contact-email" class="col-sm-2 col-form-label">Your email:</label>
+                                    <div class="col-sm-10"><input id="contact-email" class="form-control" name="entry.1576385696" /></div>
+                                </div>
+                                <div class="form-group row">
+                                    <label for="contact-message" class="col-sm-2 col-form-label">Your message:</label>
+                                    <div class="col-sm-10"><textarea rows="10" id="contact-message" class="form-control" name='entry.2132573899'></textarea></div>
+                                </div>
+                                <div class="form-group row">
+                                    <label for="contact-check" class="col-sm-2 col-form-label">My initials:</label>
+                                    <div class="col-sm-10"><input id="contact-email" class="form-control" name="entry.1926079421" /></div>
+                                </div>
+                                <input class='btn btn-primary' type='submit' value='Send'/>
+                                <br />
+                                <br />
+                                <br />
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-11">
+                            <p>In case you are not using the contact form above, please send me encrypted emails using this public key:</p>
+                        </div>
+                        <div class="col-1">
+                            <p class="text-right">
+                                    <a href='https://gist.githubusercontent.com/SebZiHub/79cc6af6bc62c6345800208c8edf7cfc/raw/36446e112c57648d7ba4734c53ac1e05a72b7226/pub.key' target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <script src="https://gist.github.com/SebZiHub/79cc6af6bc62c6345800208c8edf7cfc.js"></script>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <script>
+            var app = new Vue({
+                el: '#app',
+                data: {
+                    // pubkey: null,
+                }
+                // mounted () {
+                //     axios
+                //     .get('https://gist.githubusercontent.com/SebZiHub/79cc6af6bc62c6345800208c8edf7cfc/raw/36446e112c57648d7ba4734c53ac1e05a72b7226/pub.key')
+                //     .then(response => (this.pubkey = response.data))
+                // }
+            })
+
+            $(function () {
+                $('[data-toggle="tooltip"]').tooltip()
+            })
+        </script>
+        <!-- Blogger section fix -->
+        <b:section id='fixelements' showaddelement='no'/>
+    </body>
+</html>
