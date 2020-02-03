@@ -17,21 +17,15 @@
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Saira+Semi+Condensed" rel="stylesheet" />
         <!-- Meta -->
-        <link href='http://www.sebastian-zimmermann.ch/favicon.ico' rel='icon' type='image/x-icon' />
+        <link href='favicon.ico' rel='icon' type='image/x-icon' />
         <link href='http://www.sebastian-zimmermann.ch/' rel='canonical' />
         <meta content='Persönliche Webseite von Sebastian Zimmermann' name='description'/>
         <meta content='http://www.sebastian-zimmermann.ch/' property='og:url'/>
         <meta content='Sebastian Zimmermann' property='og:title'/>
         <meta content='Webseite von Sebastian Zimmermann' property='og:description'/>
         <title>Sebastian Zimmermann</title>
-        <!-- Blogger skin tag -->
-        <b:skin><![CDATA[
-        ]]></b:skin>
         <!-- CSS -->
         <style type="text/css">
-        #sideNav {
-            font-family:'Roboto',serif;
-        }
         h1,h2,h3,h4,h5,h6{
             font-family:'Saira Semi Condensed', sans-serif;
             font-weight:700;
@@ -39,72 +33,17 @@
             color:#343a40
         }
         h1{
-            font-size:6rem;
+            font-size:5.25rem;
             line-height:5.5rem
         }
         h2{
-            font-size:3.5rem;
-            line-height:6rem
+            font-size:5rem;
+            line-height:5.5rem
         }
         body{
             font-family:'Open Sans',serif;
             /* padding-top:54px; */
             /* color:#868e96 */
-        }
-        @media (min-width:992px){
-            body{
-                padding-top:0;
-                /* padding-left:17rem */
-            }
-        }
-        .subheading {
-            text-transform:uppercase;
-            font-weight:500;
-            font-family:'Saira Semi Condensed',sans-serif;
-            font-size:1.35rem
-        }
-        #sideNav .navbar-nav .nav-item .nav-link{
-            font-weight:600;
-            text-transform:uppercase
-        }
-        @media (min-width:992px){
-            #sideNav{
-                text-align:center;
-                position:fixed;
-                top:0;
-                left:0;
-                display:flex;
-                flex-direction:column;
-                width:17rem;
-                height:100vh
-            }
-            #sideNav .navbar-brand{
-                display:flex;
-                margin:auto auto 0;
-                padding:.5rem
-            }
-            #sideNav .navbar-brand .img-profile{
-                max-width:10rem;
-                max-height:10rem;
-                border:.5rem solid rgba(255,255,255,.2)
-            }
-            #sideNav .navbar-collapse{
-                display:flex;
-                align-items:flex-start;
-                flex-grow:0;
-                width:100%;
-                margin-bottom:auto
-            }
-            #sideNav .navbar-collapse .navbar-nav{
-                flex-direction:column;
-                width:100%
-            }
-            #sideNav .navbar-collapse .navbar-nav .nav-item{
-                display:block
-            }
-            #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{
-                display:block
-            }
         }
         section .onePanelView {
             min-height: 100vh;
@@ -122,19 +61,10 @@
         a:active,a:focus,a:hover {
             color:#5a5d61
         }
-        .extraBottomPadding {
-            padding-bottom: 50px;
-        }
-
         /* Gist appearance */
         body .gist .gist-meta {
             display: none;
         }
-
-        /* div .test {
-            border-color:red;
-            border-style:solid;
-        } */
         </style>
     </head>
     <body class="bg-light">
@@ -222,20 +152,11 @@
             var app = new Vue({
                 el: '#app',
                 data: {
-                    // pubkey: null,
                 }
-                // mounted () {
-                //     axios
-                //     .get('https://gist.githubusercontent.com/SebZiHub/79cc6af6bc62c6345800208c8edf7cfc/raw/36446e112c57648d7ba4734c53ac1e05a72b7226/pub.key')
-                //     .then(response => (this.pubkey = response.data))
-                // }
             })
-
             $(function () {
                 $('[data-toggle="tooltip"]').tooltip()
             })
         </script>
-        <!-- Blogger section fix -->
-        <b:section id='fixelements' showaddelement='no'/>
     </body>
 </html>
