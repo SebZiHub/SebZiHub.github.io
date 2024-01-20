@@ -1,8 +1,38 @@
-# Test
-> If you don't believe me or don't get it, I don't have time to try to convince you, sorry.
-_- Satoshi Nakamoto_
+### Bitcoin
+In drei Sätzen zusammengefasst:
 
-Here is some text
+- Bitcoin ist dezentralisiert, sicher, limitiert, unzerstörbar und nicht manipulierbar.
+- Bitcoin ist für jede Person auf der ganzen Welt verfügbar.
+- Bitcoin ist die wahre Trennung von Geld und Politik.
 
-> [!CAUTION]
-> Nothing on here is financial advice! 
+Und nicht vergessen:
+
+> Not your keys, not your coins. 
+
+### Inhalte zum Verstehen
+| Thema | Inhalte |
+| --- | --- |
+| Wieso die Welt Bitcoin braucht | [YouTube](https://www.youtube.com/watch?v=6pNgWuQDe5s) |
+| Wie funktioniert eine Blockchain? | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
+| Bitcoin einfach erklärt | [YouTube](https://www.youtube.com/watch?v=s4g1XFU8Gto) |
+| Das Lightning Netzwerk erklärt | [YouTube](https://www.youtube.com/watch?v=rrr_zPmEiME) |
+
+### Wallets
+Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) mal nachlesen. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/sichern-sie-ihre-wallet). Hier sind mal meine Empfehlungen:
+
+| Wallet | Bemerkungen |
+| --- | --- |
+| [Electrum](https://electrum.org/#download) | Kannst du direkt auf dem Desktop PC laufen lassen. Kann man noch weiter absichern mit der Verwendung eines Hardware Wallets oder "Tails" als Betriebssystem. |
+| [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk |
+| [Sentinel](https://play.google.com/store/apps/details?id=com.samourai.sentinel&pcampaignid=web_share) | Watch-Only Wallet zum Beobachten deiner gesicherten Wallets |
+| [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Solltest du mal ein Wallet auf Papier mit dem Smartphone scannen und leeren wollen. |
+| [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only |
+
+### Handel
+| Börse | Bemerkungen |
+| --- | --- |
+| [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. |
+| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren. BTC ist nie auf dem Exchange. |
+| [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
+
+Ich würde ganz klar **Relai** empfehlen. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen).

@@ -1,15 +1,14 @@
-### Hat mal jemand gesagt...
+### HELLO WORLD 
+Das hat mal jemand gesagt:
+
 > Auf egoistischem Boden kann das Ethische nicht wachsen.
 
-\- Albert Schweitzer (1875 - 1965)
+und ich denke ~~oft~~ manchmal daran.
 
 ### Bitcoin 101
-Für mich ist Bitcoin eines der besten Erfindungen seit der 2000er.
-
-Schau deshalb [hier](./bitcoin.html) rein.
+Für mich ist Bitcoin eine geniale Erfindung. Schau mal [hier](./bitcoin.html) rein.
 
 ### Mein öffentlicher PGP Schlüssel
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
