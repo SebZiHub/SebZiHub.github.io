@@ -9,17 +9,17 @@ Und nicht vergessen:
 
 > Not your keys, not your coins. 
 
-### Inhalte zum Verstehen
+### Einfach erklärt 
 
 | Thema | Video |
 | --- | --- |
 | Wieso die Welt Bitcoin braucht | [YouTube](https://www.youtube.com/watch?v=6pNgWuQDe5s) |
-| Wie funktioniert eine Blockchain? | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
+| Wie eine Blockchain funktioniert | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
 | Bitcoin einfach erklärt | [YouTube](https://www.youtube.com/watch?v=s4g1XFU8Gto) |
 | Das Lightning Netzwerk erklärt | [YouTube](https://www.youtube.com/watch?v=rrr_zPmEiME) |
 
 ### Wallets
-Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) mal nachlesen. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/sichern-sie-ihre-wallet). Hier sind mal meine Empfehlungen:
+Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) mal nachlesen. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/sichern-sie-ihre-wallet). Hier sind meine Empfehlungen:
 
 | Wallet | Bemerkungen |
 | --- | --- |
@@ -30,11 +30,10 @@ Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](ht
 | [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. |
 
 ### Handel
+Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strategie](https://dcabtc.com/) sich damit einfach umsetzen lässt. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen). Börsen im CHF/BTC Markt die ich kenne:
 
 | Börse | Bemerkungen |
 | --- | --- |
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. |
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren. BTC ist nie auf dem Exchange. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
-
-Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strategie](https://dcabtc.com/) einfach umsetzen lässt. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen).
