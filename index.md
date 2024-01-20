@@ -1,6 +1,9 @@
-# Sebastian Zimmermann
+# Sebastian 
 > Auf egoistischem Boden kann das Ethische nicht wachsen.
 > _Albert Schweitzer(1875 - 1965)_
+
+# Good to know
+[Bitcoin](./bitcoin.html)
 
 ## Contact me
 ```
