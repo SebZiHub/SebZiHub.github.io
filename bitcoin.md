@@ -10,6 +10,7 @@ Und nicht vergessen:
 > Not your keys, not your coins. 
 
 ### Inhalte zum Verstehen
+
 | Thema | Inhalte |
 | --- | --- |
 | Wieso die Welt Bitcoin braucht | [YouTube](https://www.youtube.com/watch?v=6pNgWuQDe5s) |
@@ -29,6 +30,7 @@ Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](ht
 | [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only |
 
 ### Handel
+
 | Börse | Bemerkungen |
 | --- | --- |
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. |
