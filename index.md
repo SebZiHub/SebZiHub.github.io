@@ -1,11 +1,15 @@
+### Hat mal jemand gesagt...
 > Auf egoistischem Boden kann das Ethische nicht wachsen.
 
-- Albert Schweitzer (1875 - 1965)
+\- Albert Schweitzer (1875 - 1965)
 
-## Good to know
-[Bitcoin](./bitcoin.html)
+### Bitcoin 101
+Für mich ist Bitcoin eines der besten Erfindungen seit der 2000er.
 
-### contact me privately 
+Schau deshalb [hier](./bitcoin.html) rein.
+
+### Mein öffentlicher PGP Schlüssel
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
