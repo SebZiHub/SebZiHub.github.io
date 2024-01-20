@@ -4,5 +4,5 @@ _- Satoshi Nakamoto_
 
 Here is some text
 
-[!CAUTION]
-Nothing on here is financial advice! 
+> [!CAUTION]
+> Nothing on here is financial advice! 
