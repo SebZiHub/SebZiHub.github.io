@@ -11,7 +11,7 @@ Und nicht vergessen:
 
 ### Inhalte zum Verstehen
 
-| Thema | Inhalte |
+| Thema | Video |
 | --- | --- |
 | Wieso die Welt Bitcoin braucht | [YouTube](https://www.youtube.com/watch?v=6pNgWuQDe5s) |
 | Wie funktioniert eine Blockchain? | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
@@ -24,10 +24,10 @@ Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](ht
 | Wallet | Bemerkungen |
 | --- | --- |
 | [Electrum](https://electrum.org/#download) | Kannst du direkt auf dem Desktop PC laufen lassen. Kann man noch weiter absichern mit der Verwendung eines Hardware Wallets oder "Tails" als Betriebssystem. |
-| [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk |
-| [Sentinel](https://play.google.com/store/apps/details?id=com.samourai.sentinel&pcampaignid=web_share) | Watch-Only Wallet zum Beobachten deiner gesicherten Wallets |
+| [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk. |
+| [Sentinel](https://play.google.com/store/apps/details?id=com.samourai.sentinel&pcampaignid=web_share) | Watch-Only Wallet zum Beobachten deiner gesicherten Wallets. |
 | [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Solltest du mal ein Wallet auf Papier mit dem Smartphone scannen und leeren wollen. |
-| [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only |
+| [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. |
 
 ### Handel
 
@@ -37,4 +37,4 @@ Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](ht
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren. BTC ist nie auf dem Exchange. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
 
-Ich würde ganz klar **Relai** empfehlen. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen).
+Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strategie](https://dcabtc.com/) einfach umsetzen lässt. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen).
