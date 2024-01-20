@@ -12,6 +12,7 @@ relative_links:
 #  - CONTRIBUTING.md
 #  - ISSUE_TEMPLATE.md
 #  - PULL_REQUEST_TEMPLATE.md
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+name: ""
 title: Sebastian Zimmermann
-description: Init 0 
+description: "" 
