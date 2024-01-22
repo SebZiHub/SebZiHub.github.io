@@ -37,3 +37,10 @@ Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strate
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. |
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren. BTC ist nie auf dem Exchange. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
+
+### Soll ich investieren?
+Diese Frage kannst nur du beantworten. Wer Bitcoin versteht, der sieht wie stark es ist. 
+
+Um es in Satoshi's Worten zu sagen:
+
+> It might make sense just to get some in case it catches on.
