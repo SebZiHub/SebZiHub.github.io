@@ -6,7 +6,11 @@ Das hat mal jemand gesagt:
 und ich denke ~~oft~~ manchmal daran.
 
 ### Bitcoin 101
-Für mich ist Bitcoin eine geniale Erfindung. Schau mal [hier](./bitcoin.html) rein.
+Unser Finanzsystem begünstigt Politiker und die Chefetagen der Banken. Gewinne werden unter Wenigen verteilt, während Verluste von uns allen getragen werden.
+
+Bitcoin ist die erste Trennung von Geld und Politik.
+
+Schau mal [hier](./bitcoin.html) rein.
 
 ### Mein öffentlicher PGP Schlüssel
 ```
