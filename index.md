@@ -5,12 +5,15 @@ Das hat mal jemand gesagt:
 
 und ich denke ~~oft~~ manchmal daran.
 
-### Bitcoin 101
-Unser Finanzsystem begünstigt Politiker und die Chefetagen der Banken. Gewinne werden unter Wenigen verteilt, während Verluste von uns allen getragen werden.
+### Vegan
+Eine Philosophie, die mein Leben geprägt hat.
 
+[Klick hier](./vegan.html).
+
+### Bitcoin
 Bitcoin ist die erste Trennung von Geld und Politik.
 
-Schau mal [hier](./bitcoin.html) rein.
+[Klick hier](./bitcoin.html).
 
 ### Mein öffentlicher PGP Schlüssel
 ```
@@ -46,5 +49,3 @@ Euzbm1WwfeZsAU6W/QKuypyTNb03RVA2fts7O5XqQDXUpGjfbzA=
 =F/g7
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-[AARS](https://bit.ly/m/aars)
