@@ -38,9 +38,5 @@ Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strate
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren. BTC ist nie auf dem Exchange. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
 
-### Soll ich investieren?
-Diese Frage kannst nur du beantworten. Wer Bitcoin versteht, der sieht wie stark es ist. 
-
-Um es in Satoshi's Worten zu sagen:
-
-> It might make sense just to get some in case it catches on.
+### Zur Frage "Soll ich investieren?"
+Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Während der USD, EUR und CHF ständig an Kaufkraft verlieren, hat der Bitcoin an Wert gewonnen. Für mich ist das Grund genug. 
