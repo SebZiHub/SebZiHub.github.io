@@ -10,6 +10,8 @@ Eine Philosophie, die mein Leben geprägt hat.
 
 [Klick hier](./vegan.html).
 
+Für Aktivisten\*innen: [AARS](https://bit.ly/m/aars).
+
 ### Bitcoin
 Bitcoin ist die erste Trennung von Geld und Politik.
 
