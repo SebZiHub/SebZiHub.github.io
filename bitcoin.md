@@ -39,4 +39,4 @@ Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strate
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
 
 ### Zur Frage "Soll ich investieren?"
-Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Während der USD, EUR und CHF ständig an Kaufkraft verlieren, hat der Bitcoin an Wert gewonnen. Für mich ist das Grund genug. 
+Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein? Bitcoin ist die Exit-Strategie. 
