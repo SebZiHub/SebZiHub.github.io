@@ -31,12 +31,13 @@ Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://b
 | [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. |
 
 ### Handel
-Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strategie](https://dcabtc.com/) sich damit einfach umsetzen lässt. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen). Börsen im CHF/BTC Markt die ich kenne:
+Für Neulinge würde ich Relai empfehlen. Diese Börse funktioniert ziemlich einfach und die [DCA-Strategie](https://dcabtc.com/) lässt sich damit fast automatisch umsetzen. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen). Börsen im CHF/BTC Markt die ich kenne:
 
 | Börse | Bemerkungen |
 | --- | --- |
-| [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. |
-| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren. BTC ist nie auf dem Exchange. |
+| [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
+| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User die passende Lösung. |
+| [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Die Preise sind abhängig vom Markt und es gibt verschiedene Zahlungsoptionen. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
 
 ### Zur Frage "Soll ich investieren?"
