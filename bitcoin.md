@@ -5,10 +5,6 @@ In drei Sätzen zusammengefasst:
 - Bitcoin ist für jede Person auf der ganzen Welt verfügbar.
 - Bitcoin ist die wahre Trennung von Geld und Politik.
 
-Und nicht vergessen:
-
-> Not your keys, not your coins. 
-
 ### Einfach erklärt 
 
 | Thema | Video |
@@ -38,7 +34,10 @@ Für Neulinge würde ich Relai empfehlen. Diese Börse funktioniert ziemlich ein
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User die passende Lösung. |
 | [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Die Preise sind abhängig vom Markt und es gibt verschiedene Zahlungsoptionen. |
-| [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
+| [RoboSats] (https://learn.robosats.com/) | Dezentralisierter Handel mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. |
+| [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Würde ich nicht empfehlen. |
 
 ### Zur Frage "Soll ich investieren?"
 Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein? Bitcoin ist die Exit-Strategie.
+
+> Not your keys, not your coins.
