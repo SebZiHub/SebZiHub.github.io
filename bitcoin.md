@@ -17,13 +17,14 @@ Und nicht vergessen:
 | Wie eine Blockchain funktioniert | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
 | Bitcoin einfach erklärt | [YouTube](https://www.youtube.com/watch?v=s4g1XFU8Gto) |
 | Das Lightning Netzwerk erklärt | [YouTube](https://www.youtube.com/watch?v=rrr_zPmEiME) |
+| Wie ein Bitcoin Wallet funktioniert | [YouTube](https://www.youtube.com/watch?v=GSTiKjnBaes) |
 
 ### Wallets
-Um generell zu verstehen, wie man ein Wallet sichern sollte, kannst du [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) mal nachlesen. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/sichern-sie-ihre-wallet). Hier sind meine Empfehlungen:
+Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) gut beschrieben. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/waehlen-sie-ihre-wallet?step=5). Hier sind meine Empfehlungen:
 
 | Wallet | Bemerkungen |
 | --- | --- |
-| [Electrum](https://electrum.org/#download) | Kannst du direkt auf dem Desktop PC laufen lassen. Kann man noch weiter absichern mit der Verwendung eines Hardware Wallets oder "Tails" als Betriebssystem. |
+| [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann man noch weiter absichern mit der Verwendung eines Hardware Wallets oder "Tails" als Betriebssystem. |
 | [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk. |
 | [Sentinel](https://play.google.com/store/apps/details?id=com.samourai.sentinel&pcampaignid=web_share) | Watch-Only Wallet zum Beobachten deiner gesicherten Wallets. |
 | [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Solltest du mal ein Wallet auf Papier mit dem Smartphone scannen und leeren wollen. |
@@ -39,4 +40,4 @@ Ich würde Relai empfehlen, da diese Börse gut funktioniert und die [DCA-Strate
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Klar nicht mein Favorit. |
 
 ### Zur Frage "Soll ich investieren?"
-Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein? Bitcoin ist die Exit-Strategie. 
+Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein? Bitcoin ist die Exit-Strategie.
