@@ -37,7 +37,20 @@ Für Neulinge würde ich Relai empfehlen. Diese Börse funktioniert ziemlich ein
 | [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Würde ich nicht empfehlen. |
 
-### Zur Frage "Soll ich investieren?"
-Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein? Bitcoin ist die Exit-Strategie.
+### Häufig gestellte Fragen
 
-> Not your keys, not your coins.
+> Soll ich investieren?
+
+Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein?
+
+> Was ist mit anderen Kryptowährungen?
+
+Andere Kryptowährungen behaupten, dass sie Transaktionen schneller verarbeiten als Bitcoin, deine Privatsphäre besser schützen als Bitcoin oder vielleicht weniger Ressourcen verbrauchen als Bitcoin. Tatsächlich ist aber Bitcoin der nächste Bitcoin, mehr braucht es nicht.
+
+Wo das Problem liegt? Grössere Blöcke in der Blockchain ermöglichen mehr Transaktionen pro Sekunde, schädigen aber die Sicherheit und die Unveränderbarkeit der Währung. "Proof of Stake" begünstigt Personen, die bereits viele Coins besitzen, und das ist bei einem Pre-Mine besonders unfair. Anonyme Kryptowährungen lohnt es sich nicht zu halten, da diese zu rasch an Wert verlieren. Kryptowährungen ohne fixe Geldmenge entwerten sich selber, wie das auch der CHF/USD/EUR machen. Stablecoins sind eine digitale Variante der jeweiligen Fiat-Währung, das bringt keinen Nutzen.
+
+> Niemand braucht Bitcoin - macht es überhaupt Sinn Bitcoin zu kaufen?
+
+Das Internet war damals ein kleines Netzwerk zwischen Universitäten und genutzt wurde es nur von sehr wenigen Personen. Die Nutzung war umständlich und es waren vielen Kenntnisse erforderlich. Heute ist das Internet für jede Person sehr einfach zugänglich. Ein Benutzer braucht nicht zu wissen, wie die unterliegenden Protokolle funktionieren.
+
+In Zukunft wird es mit BTC ähnlich sein. Die Benutzung wird einfacher werden und mit verschiedenen Erweiterungen, wie beispielsweise das Lightning Network, wird sich auch die Akzeptanz ausweiten. BTC ist hier um zu bleiben.
