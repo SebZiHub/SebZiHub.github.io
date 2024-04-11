@@ -49,6 +49,8 @@ Andere Kryptowährungen behaupten, dass sie Transaktionen schneller verarbeiten 
 
 Wo das Problem liegt? Grössere Blöcke in der Blockchain ermöglichen mehr Transaktionen pro Sekunde, schädigen aber die Sicherheit und die Unveränderbarkeit der Währung. "Proof of Stake" begünstigt Personen, die bereits viele Coins besitzen, und das ist bei einem Pre-Mine besonders unfair. Anonyme Kryptowährungen lohnt es sich nicht zu halten, da diese zu rasch an Wert verlieren. Kryptowährungen ohne fixe Geldmenge entwerten sich selber, wie das auch der CHF/USD/EUR machen. Stablecoins sind eine digitale Variante der jeweiligen Fiat-Währung, das bringt keinen Nutzen.
 
+Kurz gesagt: andere Kryptowährungen haben fundamentalle Probleme. Bitcoin braucht keine Alternativen.
+
 > Niemand braucht Bitcoin - macht es überhaupt Sinn Bitcoin zu kaufen?
 
 Das Internet war damals ein kleines Netzwerk zwischen Universitäten und genutzt wurde es nur von sehr wenigen Personen. Die Nutzung war umständlich und es waren vielen Kenntnisse erforderlich. Heute ist das Internet für jede Person sehr einfach zugänglich. Ein Benutzer braucht nicht zu wissen, wie die unterliegenden Protokolle funktionieren.
