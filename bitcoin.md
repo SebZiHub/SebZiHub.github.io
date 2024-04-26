@@ -51,7 +51,13 @@ Wo das Problem liegt? Grössere Blöcke in der Blockchain ermöglichen mehr Tran
 
 Kurz gesagt: andere Kryptowährungen haben fundamentalle Probleme. Bitcoin braucht keine Alternativen.
 
-> Niemand braucht Bitcoin - macht es überhaupt Sinn Bitcoin zu kaufen?
+> Ist es für mich nicht schon zu spät?
+
+Bitcoin hat ein faires Verteilungssystem. Seit dem ersten Block steht es allen Personen frei, Bitcoins zu schürfen und sich am Netzwerk zu beteiligen. Die fixe Gesamtmenge und deren deflationäre Verteilung animiert die Teilnehmer, ihre Bitcoins zu halten und nur auszugeben, wenn es auch wirklich sinnvoll ist. Diese Faktoren lassen den Bitcoin tendenziell an Wert steigen, gegenüber USD/EUR/CHF etc. 
+
+Im Gegensatz stehen die Fiatwährungen: die Reichen werden reicher und du wirst durch das Halten von CHF nur noch ärmer. Deine 10.- CHF kaufen morgen weniger als heute. Du kannst heute beginnen, einen Bruchteil deines Vermögens in Bitcoin umzuwandeln, auch wenn es nur ein Bruchteil eines Bitcoins ist. Dieses Vermögen wird nicht mehr entwertet. Das Prinzip gilt für alle. Es ist also nie zu spät.
+
+> Niemand braucht heute Bitcoin - macht es überhaupt Sinn Bitcoin zu kaufen?
 
 Das Internet war damals ein kleines Netzwerk zwischen Universitäten und genutzt wurde es nur von sehr wenigen Personen. Die Nutzung war umständlich und es waren vielen Kenntnisse erforderlich. Heute ist das Internet für jede Person sehr einfach zugänglich. Ein Benutzer braucht nicht zu wissen, wie die unterliegenden Protokolle funktionieren.
 
