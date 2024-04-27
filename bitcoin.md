@@ -20,10 +20,10 @@ Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://b
 
 | Wallet | Bemerkungen |
 | --- | --- |
-| [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann man noch weiter absichern mit der Verwendung eines Hardware Wallets oder "Tails" als Betriebssystem. |
-| [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk. |
-| [Sentinel](https://play.google.com/store/apps/details?id=com.samourai.sentinel&pcampaignid=web_share) | Watch-Only Wallet zum Beobachten deiner gesicherten Wallets. |
+| [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann als Cold Wallet (inkl. Hardware Wallet oder in einem Tails OS), Hot Wallet oder Watch-Only verwendet werden. Hat nicht das beste Aussehen aber langjähriges bestehen in der Open-Source Community. |
+| [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk und verwaltet Kanäle automatisch. |
 | [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Solltest du mal ein Wallet auf Papier mit dem Smartphone scannen und leeren wollen. |
+| [Sparrow](https://www.sparrowwallet.com/) | Eine beliebte Alternative zu Electrum. |
 | [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. |
 
 ### Handel
