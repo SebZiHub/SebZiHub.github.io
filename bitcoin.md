@@ -20,23 +20,25 @@ Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://b
 
 | Wallet | Bemerkungen |
 | --- | --- |
-| [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann als Cold Wallet (inkl. Hardware Wallet oder in einem Tails OS), Hot Wallet oder Watch-Only verwendet werden. Hat nicht das beste Aussehen aber langjähriges bestehen in der Open-Source Community. |
+| [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann als Cold Wallet (inkl. Hardware Wallet oder in einem Tails OS), Hot Wallet oder Watch-Only verwendet werden. Hat nicht das beste Aussehen aber ein langjähriges Bestehen in der Open-Source Community. |
 | [Phoenix](https://phoenix.acinq.co/) | Als Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk und verwaltet Kanäle automatisch. |
 | [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Solltest du mal ein Wallet auf Papier mit dem Smartphone scannen und leeren wollen. |
 | [Sparrow](https://www.sparrowwallet.com/) | Eine beliebte Alternative zu Electrum. |
 | [BlueWallet](https://bluewallet.io/) | Eine Option aber nicht mein Favorit. Kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. |
 
 ### Handel
-Für Neulinge würde ich Relai empfehlen. Diese Börse funktioniert ziemlich einfach und die [DCA-Strategie](https://dcabtc.com/) lässt sich damit fast automatisch umsetzen. Andere Börsen findest du [hier](https://bitcoin.org/de/boersen). Börsen im CHF/BTC Markt die ich kenne:
+Das sind Börsen im CHF/BTC Markt, die ich kenne:
 
 | Börse | Bemerkungen |
 | --- | --- |
-| [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Die Preise sind abhängig vom Markt und es gibt verschiedene Zahlungsoptionen. Für fortgeschrittene User eine sehr gute Lösung. |
-| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess notwendig. Bei jeder Transaktion ist eine Nachricht zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User eine passende Lösung. |
+| [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Für fortgeschrittene User eine sehr gute Lösung. |
+| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess notwendig. Bei jeder Transaktion ist eine Nachricht zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User eine gute Lösung. |
 | [Pocket](https://pocketbitcoin.com/de) | Hohe Gebühren von 1.5%. Erlaubt den Kauf von BTC in Beträgen bis zu 1000 CHF pro Tag ohne KYC. Eine Nachricht muss signiert werden, Nach dem Banktransfer gehen die BTC direkt in dein Wallet. |
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
 | [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel ohne KYC mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Ich würde diese Börse nicht empfehlen. |
+
+Eine Übersicht weiterer Börsen findest du [hier](https://bitcoin.org/de/boersen) und [hier](https://kycnot.me/?t=exchange&q=&btc=on&fiat=on).
 
 ### Häufig gestellte Fragen
 
@@ -60,6 +62,18 @@ Im Gegensatz stehen die Fiatwährungen: die Reichen werden reicher und du wirst 
 
 > Niemand braucht heute Bitcoin - macht es überhaupt Sinn Bitcoin zu kaufen?
 
-Das Internet war damals ein kleines Netzwerk zwischen Universitäten und genutzt wurde es nur von sehr wenigen Personen. Die Nutzung war umständlich und es waren vielen Kenntnisse erforderlich. Heute ist das Internet für jede Person sehr einfach zugänglich. Ein Benutzer braucht nicht zu wissen, wie die unterliegenden Protokolle funktionieren.
+Das Internet war damals ein kleines Netzwerk zwischen Universitäten und genutzt wurde es nur von sehr wenigen Personen. Die Nutzung war umständlich und es waren vielen Kenntnisse erforderlich. Heute ist das Internet für jede Person sehr einfach zugänglich. Ein User braucht nicht zu wissen, wie die unterliegenden Protokolle funktionieren.
 
 In Zukunft wird es mit BTC ähnlich sein. Die Benutzung wird einfacher werden und mit verschiedenen Erweiterungen, wie beispielsweise das Lightning Network, wird sich auch die Akzeptanz ausweiten. BTC ist hier um zu bleiben.
+
+> OK, ich bin dabei. Wie fange ich an?
+
+Ich empfehle generell die [DCA](https://dcabtc.com/) Strategie. Bei dieser Strategie kauft man regelmässig BTC, unabhängig vom Preis. Diese Strategie schützt dein Vermögen langfristig. Meiner Erfahrung nach bereitet sie auch am wenigsten Kopfzerbrechen. Die Umsetzung kann sehr einfach sein: monatlich, direkt nach dem Zahltag, kaufst du BTC mit der gleichen Menge CHF. Fertig.
+
+> Warum ist KYC ein Problem?
+
+KYC bedeutet "Know Your Customer". Alle Börsen mit einem KYC-Prozess fragen dich nach deinen Personalien und bitten dich, eine Nachricht mit deiner Empfangsadresse zu signieren, bevor sie dir BTC verkaufen. Diese Prozedur hat einen regulatorischen Hintergrund.
+
+Ich sehe hauptsächlich zwei Gründe, weshalb KYC problematisch sein kann. Auf der einen Seite werden in diesem Prozess persönliche Daten durch den Anbieter elektronisch verarbeitet, analysiert und gespeichert. Inwiefern der Anbieter dabei die Daten angemessen schützt, ist fraglich. Mit anderen Worten: nach einem Hack oder fahrlässigem Umgang mit deinen Daten landen diese in den Händen böswilliger Akteure. Auf der anderen Seite ermöglicht dieser Prozess einem Anbieter oder einer Regierung die Zuordnung von Personen zu BTC-Transaktionen. Eine Überwachung auf dieser Ebene kann eine Gefährdung für Personen darstellen.
+
+Welchem Anbieter persönliche Daten anvertraut werden, sollte gut abgewogen werden. Es ist wie auf der Toilette: Jede Person weiss, was dort passiert. Trotzdem sollte es nicht jeder sehen, oder?
