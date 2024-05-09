@@ -32,10 +32,11 @@ Für Neulinge würde ich Relai empfehlen. Diese Börse funktioniert ziemlich ein
 | Börse | Bemerkungen |
 | --- | --- |
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
-| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess ist etwas aufwendig. Jede Transaktion ist zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User die passende Lösung. |
-| [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Die Preise sind abhängig vom Markt und es gibt verschiedene Zahlungsoptionen. |
+| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess notwendig. Jede Transaktion ist zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User die passende Lösung. |
+| [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Die Preise sind abhängig vom Markt und es gibt verschiedene Zahlungsoptionen. Für fortgeschrittene User eine sehr gute Lösung. |
 | [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Würde ich nicht empfehlen. |
+| [Pocket](https://pocketbitcoin.com/de) | Hohe Gebühren von 1.5%. Erlaubt den Kauf von BTC in Beträgen bis zu 1000 CHF pro Tag ohne KYC. Nach dem Banktransfer gehen die BTC direkt in dein Wallet. |
 
 ### Häufig gestellte Fragen
 
