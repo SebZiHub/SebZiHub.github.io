@@ -1,7 +1,7 @@
 ### Bitcoin
 In drei Sätzen zusammengefasst:
 
-- Bitcoin ist dezentralisiert, sicher, limitiert, unzerstörbar und nicht manipulierbar.
+- Bitcoin ist dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar.
 - Bitcoin ist für jede Person auf der ganzen Welt verfügbar.
 - Bitcoin ist die wahre Trennung von Geld und Politik.
 
