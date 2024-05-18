@@ -16,22 +16,23 @@ In drei Sätzen zusammengefasst:
 | Wie ein Bitcoin Wallet funktioniert | [YouTube](https://www.youtube.com/watch?v=GSTiKjnBaes) |
 
 ### Wallets
-Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) gut beschrieben. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/waehlen-sie-ihre-wallet?step=5). Hier sind meine Empfehlungen:
+Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) gut beschrieben. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/waehlen-sie-ihre-wallet?step=5). Das sind Wallets, die ich kenne, alphabetisch sortiert:
 
 | Wallet | Bemerkungen |
 | --- | --- |
+| [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Eignet sich gut als einfaches Hot Wallet auf dem Smartphone für etwas Kleingeld. Es kann auch direkt Paper Wallets leeren. |
+| [BlueWallet](https://bluewallet.io/) | Es kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. Meiner Erfahrung nach ist es etwas träge und deshalb nicht mein Favorit. |
 | [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann als Cold Wallet (inkl. Hardware Wallet oder in einem Tails OS), Hot Wallet oder Watch-Only verwendet werden. Es hat nicht das beste Aussehen aber ein langjähriges Bestehen in der Open Source Community. |
 | [Phoenix](https://phoenix.acinq.co/) | Als Hot Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk und verwaltet Kanäle automatisch. |
-| [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Eignet sich gut als einfaches Hot Wallet auf dem Smartphone für etwas Kleingeld. Es kann auch direkt Paper Wallets leeren. |
 | [Sparrow](https://www.sparrowwallet.com/) | Eine beliebte Alternative zu Electrum auf dem Desktop PC. |
-| [BlueWallet](https://bluewallet.io/) | Es kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. Meiner Erfahrung nach ist es etwas träge und deshalb nicht mein Favorit. |
 
 ### Handel
-Das sind Börsen im CHF/BTC Markt, die ich kenne:
+Das sind Börsen im CHF/BTC Markt, die ich kenne, alphabetisch sortiert:
 
 | Börse | Bemerkungen |
 | --- | --- |
 | [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Für fortgeschrittene User eine sehr gute Lösung. |
+| [Bitpanda](https://www.bitpanda.com/) | Gebühren im Handelspreis inkludiert. KYC-Prozess notwendig. Zentralisierter Exchange, Einzahlungen mit Banktransfer oder Kreditkarte möglich. Transfer auf das eigene Wallet kostet relativ viel, wird aber schnell durchgeführt. |
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess notwendig. Bei jeder Transaktion ist eine Nachricht zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User eine gute Lösung. |
 | [Pocket](https://pocketbitcoin.com/de) | Hohe Gebühren von 1.5%. Erlaubt den Kauf von BTC in Beträgen bis zu 1000 CHF pro Tag ohne KYC. Eine Nachricht muss signiert werden, Nach dem Banktransfer gehen die BTC direkt in dein Wallet. |
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
