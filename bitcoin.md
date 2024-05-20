@@ -53,7 +53,7 @@ Andere Kryptowährungen behaupten, dass sie Transaktionen schneller verarbeiten 
 
 "Wo liegt das Problem?" - Grössere Blöcke in der Blockchain ermöglichen mehr Transaktionen pro Sekunde, schädigen aber die Sicherheit und die Unveränderbarkeit der Währung. "Proof of Stake" begünstigt Personen, die bereits viele Coins besitzen, und das ist bei einem Pre-Mine besonders unfair. Anonyme Kryptowährungen lohnt es sich nicht zu halten, da diese zu rasch an Wert verlieren. Kryptowährungen ohne fixe Geldmenge entwerten sich selber, wie das auch der CHF/USD/EUR machen. Stablecoins sind eine digitale Variante der jeweiligen Fiat-Währung, das bringt keinen Nutzen.
 
-Kurz gesagt: andere Kryptowährungen haben fundamentalle Probleme. Bitcoin braucht keine Alternativen.
+Andere Kryptowährungen haben also fundamentale Probleme. Bitcoin kombiniert bereits verschiedene Konzepte einer Blockchain (Hashing, Proof of Work, Difficulty Adjustment, Vermeidung von Doppelausgaben usw.) optimal.
 
 > Ist es für mich nicht schon zu spät?
 
