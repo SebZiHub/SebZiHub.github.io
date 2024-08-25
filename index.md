@@ -1,23 +1,21 @@
 ### HELLO WORLD 
 Das hat mal jemand gesagt:
 
-> Auf egoistischem Boden kann das Ethische nicht wachsen.
+> In der Hoffnung, den Mond zu erreichen, vergisst der Mensch, auf die Blumen zu schauen, die zu seinen Füssen blühen
 
-und ich denke ~~oft~~ manchmal daran.
+und ich denke manchmal daran.
 
-### Vegan
-Eine Philosophie, die mein Leben prägt.
-
-[Klick hier](./vegan.html).
-
-Für Aktivisten\*innen: [AARS](https://bit.ly/m/aars).
-
-### Bitcoin
-Bitcoin ist die erste Trennung von Geld und Politik.
-
-[Klick hier](./bitcoin.html).
+### Interessen
+- [Veganismus](./vegan.html): eine Philosophie, die mein Leben prägt (Für Aktivisten\*innen: [AARS](https://bit.ly/m/aars)
+- [Bitcoin](./bitcoin.html): das Geld der Freiheit und die erste Trennung von Geld und Politik
 
 ### Kontakt
+Via Noster:
+
+```
+npub1tfykeyjrpep3ta3gp7c2rggh7lw60xywpqgsznhnlwwflt33zyus5dprn8
+```
+
 Via Mail an `sebastian-jzd@protonmail.com` verschlüsselt mit:
 
 ```
