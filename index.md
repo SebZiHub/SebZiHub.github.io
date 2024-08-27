@@ -6,8 +6,8 @@ Das hat mal jemand gesagt:
 und ich denke manchmal daran.
 
 ### Interessen
-- [Veganismus](./vegan.html): eine Philosophie, die mein Leben prägt (Für Aktivisten\*innen: [AARS](https://bit.ly/m/aars)
-- [Bitcoin](./bitcoin.html): das Geld der Freiheit und die erste Trennung von Geld und Politik
+- [Veganismus](./vegan.html): Eine Philosophie, die mein Leben prägt (Für Aktivisten\*innen: [AARS](https://bit.ly/m/aars))
+- [Bitcoin](./bitcoin.html): Die erste Trennung von Geld und Politik
 
 ### Kontakt
 Via Noster:
