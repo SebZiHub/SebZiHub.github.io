@@ -53,11 +53,11 @@ Andere Kryptowährungen behaupten, dass sie Transaktionen schneller verarbeiten 
 
 "Wo liegt das Problem?" - Grössere Blöcke in der Blockchain ermöglichen mehr Transaktionen pro Sekunde, schädigen aber die Sicherheit und die Unveränderbarkeit der Währung. "Proof of Stake" begünstigt Personen, die bereits viele Coins besitzen, und das ist bei einem Pre-Mine besonders unfair. Anonyme Kryptowährungen lohnt es sich nicht zu halten, da diese zu rasch an Wert verlieren. Kryptowährungen ohne fixe Geldmenge entwerten sich selber, wie das auch der CHF/USD/EUR machen. Stablecoins sind eine digitale Variante der jeweiligen Fiat-Währung, das bringt keinen Nutzen.
 
-Andere Kryptowährungen haben also fundamentale Probleme. Bitcoin kombiniert bereits verschiedene Konzepte einer Blockchain (Hashing, Proof of Work, Difficulty Adjustment, Vermeidung von Doppelausgaben usw.) optimal.
+Andere Kryptowährungen haben also fundamentale Probleme. Bitcoin kombiniert bereits verschiedene Konzepte einer Blockchain (Hashing, Proof of Work, Difficulty Adjustment, Double Spending usw.) optimal.
 
 > Ist es für mich nicht schon zu spät?
 
-Bitcoin hat ein faires Verteilungssystem. Seit dem ersten Block steht es allen Personen frei, Bitcoins zu schürfen und sich am Netzwerk zu beteiligen. Die fixe Gesamtmenge und deren deflationäre Verteilung animieren die Teilnehmer, ihre Bitcoins zu halten und nur auszugeben, wenn es auch wirklich sinnvoll ist. Diese Faktoren lassen den Bitcoin tendenziell an Wert steigen, gegenüber USD/EUR/CHF etc. 
+Bitcoin hat ein faires Verteilungssystem. Seit dem ersten Block steht es allen Personen frei, Bitcoins zu schürfen ("minen") und sich am Netzwerk zu beteiligen. Die fixe Gesamtmenge und deren deflationäre Verteilung animieren die Teilnehmer, ihre Bitcoins zu halten und nur auszugeben, wenn es auch wirklich sinnvoll ist. Diese Faktoren lassen den Bitcoin tendenziell an Wert steigen, gegenüber USD/EUR/CHF etc. 
 
 Im Gegensatz stehen die Fiatwährungen: Die Reichen werden reicher und du wirst durch das Halten von CHF nur noch ärmer. Deine 10.- CHF kaufen morgen weniger als heute. Du kannst heute beginnen, einen Bruchteil deines Vermögens in Bitcoin umzuwandeln, auch wenn es nur ein Bruchteil eines Bitcoins ist. Dieses Vermögen wird nicht mehr entwertet. Das Prinzip gilt für alle. Es ist also nie zu spät.
 
@@ -77,4 +77,4 @@ KYC bedeutet "Know Your Customer". Alle Börsen mit einem KYC-Prozess fragen dic
 
 Ich sehe hauptsächlich zwei Gründe, weshalb KYC problematisch sein kann. Auf der einen Seite werden in diesem Prozess persönliche Daten durch den Anbieter elektronisch verarbeitet, analysiert und gespeichert. Inwiefern der Anbieter dabei die Daten angemessen schützt, ist fraglich. Mit anderen Worten: nach einem Hack oder fahrlässigem Umgang mit deinen Daten landen diese in den Händen böswilliger Akteure. Auf der anderen Seite ermöglicht dieser Prozess einem Anbieter oder einer Regierung die Zuordnung von Personen zu BTC-Transaktionen. Eine Überwachung auf dieser Ebene kann eine Gefährdung für Personen darstellen.
 
-Welchem Anbieter persönliche Daten anvertraut werden, sollte gut abgewogen werden. Es ist wie auf der Toilette: Jede Person weiss, was dort passiert. Trotzdem sollte es nicht jeder sehen, oder?
+Welchem Anbieter persönliche Daten anvertraut werden, sollte gut abgewogen werden.
