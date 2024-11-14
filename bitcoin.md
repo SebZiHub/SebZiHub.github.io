@@ -78,3 +78,8 @@ KYC bedeutet "Know Your Customer". Alle Börsen mit einem KYC-Prozess fragen dic
 Ich sehe hauptsächlich zwei Gründe, weshalb KYC problematisch sein kann. Auf der einen Seite werden in diesem Prozess persönliche Daten durch den Anbieter elektronisch verarbeitet, analysiert und gespeichert. Inwiefern der Anbieter dabei die Daten angemessen schützt, ist fraglich. Mit anderen Worten: nach einem Hack oder fahrlässigem Umgang mit deinen Daten landen diese in den Händen böswilliger Akteure. Auf der anderen Seite ermöglicht dieser Prozess einem Anbieter oder einer Regierung die Zuordnung von Personen zu BTC-Transaktionen. Eine Überwachung auf dieser Ebene kann eine Gefährdung für Personen darstellen.
 
 Welchem Anbieter persönliche Daten anvertraut werden, sollte gut abgewogen werden.
+
+### HODL
+
+> What are you trying to tell me, that I can trade my Bitcoin for millions someday?
+> No, Neo. I'm trying to tell you that when you're ready, you won't have to.
