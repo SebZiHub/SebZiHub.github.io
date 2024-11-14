@@ -82,4 +82,5 @@ Welchem Anbieter persönliche Daten anvertraut werden, sollte gut abgewogen werd
 ### HODL
 
 > What are you trying to tell me, that I can trade my Bitcoin for millions someday?
+
 > No, Neo. I'm trying to tell you that when you're ready, you won't have to.
