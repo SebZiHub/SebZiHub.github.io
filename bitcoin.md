@@ -37,6 +37,7 @@ Das sind Börsen im CHF/BTC Markt, die ich kenne, alphabetisch sortiert:
 | [Pocket](https://pocketbitcoin.com/de) | Hohe Gebühren von 1.5%. Erlaubt den Kauf von BTC in Beträgen bis zu 1000 CHF pro Tag ohne KYC. Eine Nachricht muss signiert werden, Nach dem Banktransfer gehen die BTC direkt in dein Wallet. |
 | [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
 | [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel ohne KYC mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. |
+| [SBB](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-billettautomaten/bitcoin.html) | Am SBB Automat kann ein Paper Wallet gekauft werden. KYC über eine Telefonnummer. Gebühren sind sehr hoch. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Ich würde diese Börse nicht empfehlen. |
 
 Eine Übersicht weiterer Börsen findest du [hier](https://bitcoin.org/de/boersen) und [hier](https://kycnot.me/?t=exchange&q=&btc=on&fiat=on).
