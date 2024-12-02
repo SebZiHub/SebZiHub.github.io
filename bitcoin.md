@@ -21,7 +21,7 @@ Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://b
 | Wallet | Bemerkungen |
 | --- | --- |
 | [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Eignet sich gut als einfaches Hot Wallet auf dem Smartphone für etwas Kleingeld. Es kann auch direkt Paper Wallets leeren. |
-| [BlueWallet](https://bluewallet.io/) | Es kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. Meiner Erfahrung nach ist es etwas träge und deshalb nicht mein Favorit. |
+| [BlueWallet](https://bluewallet.io/) | Es kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. Eignet sich gut zum Leeren von Paper Wallets. Meiner Erfahrung nach ist es etwas träge und deshalb nicht mein Favorit. |
 | [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann als Cold Wallet (inkl. Hardware Wallet oder in einem Tails OS), Hot Wallet oder Watch-Only verwendet werden. Es hat nicht das beste Aussehen aber ein langjähriges Bestehen in der Open Source Community. |
 | [Phoenix](https://phoenix.acinq.co/) | Als Hot Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk und verwaltet Kanäle automatisch. |
 | [Sparrow](https://www.sparrowwallet.com/) | Eine beliebte Alternative zu Electrum auf dem Desktop PC. |
