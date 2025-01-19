@@ -1,14 +1,14 @@
 ### Bitcoin
-Die Kriterien einer Währung sind:
+Folgende Aspekte machen eine Währung aus:
 
-- Austauschbarkeit
-- Transferierbarkeit
-- Haltbarkeit
-- Teilbarkeit
-- Fälschungssicherheit
-- Knappheit
-- Zensurresistenz
-- Akzeptanz
+- Austauschbarkeit: Kann die Währung problemlos gegen andere Güter oder Währungen getauscht werden?
+- Transferierbarkeit: Ist die Währung einfach und schnell von einer Person zur anderen übertragbar?
+- Haltbarkeit: Bleibt die Währung langfristig erhalten, ohne an Wert oder Funktionalität zu verlieren?
+- Teilbarkeit: Kann die Währung in kleinere Einheiten aufgeteilt werden, um auch kleinere Transaktionen zu ermöglichen?
+- Fälschungssicherheit: Kann die Währung vor Nachahmung oder Manipulation geschützt werden?
+- Knappheit: Ist die Menge der Währung begrenzt, um ihren Wert zu erhalten?
+- Zensurresistenz: Kann die Nutzung der Währung durch Dritte verhindert oder eingeschränkt werden?
+- Akzeptanz: Wird die Währung von anderen als Zahlungsmittel anerkannt und genutzt?
 
 In der Menschheitsgeschichte gab es viele Währungen, die diese Kriterien mehr oder weniger gut erfüllten. Bitcoin ist die erste digitale Währung, die all diese Kriterien erfüllt. Es ist dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar. Bitcoin ist für jede Person auf der ganzen Welt verfügbar und funktioniert unabhängig von der Politik.
 
