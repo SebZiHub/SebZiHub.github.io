@@ -1,9 +1,18 @@
 ### Bitcoin
-In drei Sätzen zusammengefasst:
+Die Kriterien einer Währung sind:
 
-- Bitcoin ist dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar.
-- Bitcoin ist für jede Person auf der ganzen Welt verfügbar.
-- Bitcoin ist die wahre Trennung von Geld und Politik.
+- Austauschbarkeit
+- Transferierbarkeit
+- Haltbarkeit
+- Teilbarkeit
+- Fälschungssicherheit
+- Knappheit
+- Zensurresistenz
+- Akzeptanz
+
+In der Menschheitsgeschichte gab es viele Währungen, die diese Kriterien mehr oder weniger gut erfüllten. Bitcoin ist die erste digitale Währung, die all diese Kriterien erfüllt. Es ist dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar. Bitcoin ist für jede Person auf der ganzen Welt verfügbar und funktioniert unabhängig von der Politik.
+
+Deshalb ist Bitcoin die stärkste Währung unserer Zeit.
 
 ### Einfach erklärt 
 
@@ -46,7 +55,7 @@ Eine Übersicht weiterer Börsen findest du [hier](https://bitcoin.org/de/boerse
 
 > Soll ich investieren?
 
-Diese Frage musst du beantworten. Bitcoin bietet dir eine Möglichkeit aus dem System auszusteigen. Ein System, in dem du die Risiken der Banken trägst, während sie jährlich dein Vermögen entwerten. Ein System, in dem das Motto lautet: "Privatjet für mich, Velo für dich". Willst du ein Teil von dem sein?
+Ich sehe Bitcoin weniger als Investition, sondern mehr als eine starke und sichere Währung. Eine Währung, die politischen Strukturen trotzen kann und gegen die Inflation schützt.
 
 > Was ist mit anderen Kryptowährungen?
 
