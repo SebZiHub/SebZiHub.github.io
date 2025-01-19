@@ -19,6 +19,7 @@ Deshalb ist Bitcoin die stärkste Währung unserer Zeit.
 | Thema | Video |
 | --- | --- |
 | Wieso die Welt Bitcoin braucht | [YouTube](https://www.youtube.com/watch?v=6pNgWuQDe5s) |
+| Besitzt Bitcoin einen intrinsischen Wert? | [YouTube](https://www.youtube.com/watch?v=t22IGNpUmj0) |
 | Wie eine Blockchain funktioniert | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
 | Bitcoin einfach erklärt | [YouTube](https://www.youtube.com/watch?v=s4g1XFU8Gto) |
 | Das Lightning Netzwerk erklärt | [YouTube](https://www.youtube.com/watch?v=rrr_zPmEiME) |
