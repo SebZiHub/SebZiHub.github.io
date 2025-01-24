@@ -10,9 +10,9 @@ Folgende Aspekte machen eine Währung aus:
 - Zensurresistenz: Kann die Nutzung der Währung durch Dritte verhindert oder eingeschränkt werden?
 - Akzeptanz: Wird die Währung von anderen als Zahlungsmittel anerkannt und genutzt?
 
-In der Menschheitsgeschichte gab es viele Währungen, die diese Kriterien mehr oder weniger gut erfüllten. Bitcoin ist die erste digitale Währung, die all diese Kriterien erfüllt. Es ist dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar. Bitcoin ist für jede Person auf der ganzen Welt verfügbar und funktioniert unabhängig von der Politik.
+In der Menschheitsgeschichte gab es viele Währungen, die diese Kriterien mehr oder weniger gut erfüllten. Bitcoin ist die erste digitale Währung, die all diese Kriterien erfüllt. 
 
-Deshalb ist Bitcoin die stärkste Währung unserer Zeit.
+Deshalb ist Bitcoin die stärkste Währung unserer Zeit. Abgesehen davon ist es auch technisch faszinierend: Bitcoin kombiniert verschiedene Konzepte wie das Hashing als Proof of Work, die Blockchain, das Difficulty Adjustment, das Halving und das Konzept der asymmetrischen Verschlüsselung. Das schafft eine Währung, die dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar ist.
 
 ### Einfach erklärt 
 
@@ -64,7 +64,7 @@ Andere Kryptowährungen behaupten, dass sie Transaktionen schneller verarbeiten 
 
 "Wo liegt das Problem?" - Grössere Blöcke in der Blockchain ermöglichen mehr Transaktionen pro Sekunde, schädigen aber die Sicherheit und die Unveränderbarkeit der Währung. "Proof of Stake" begünstigt Personen, die bereits viele Coins besitzen, und das ist bei einem Pre-Mine besonders unfair. Anonyme Kryptowährungen lohnt es sich nicht zu halten, da diese zu rasch an Wert verlieren. Kryptowährungen ohne fixe Geldmenge entwerten sich selber, wie das auch der CHF/USD/EUR machen. Stablecoins sind eine digitale Variante der jeweiligen Fiat-Währung, das bringt keinen Nutzen.
 
-Andere Kryptowährungen haben also fundamentale Probleme. Bitcoin kombiniert bereits verschiedene Konzepte einer Blockchain (Hashing, Proof of Work, Difficulty Adjustment, Double Spending usw.) optimal.
+Andere Kryptowährungen haben also fundamentale Probleme. Bitcoin kombiniert bereits verschiedene Konzepte optimal in der goldenen Mitte.
 
 > Ist es für mich nicht schon zu spät?
 
