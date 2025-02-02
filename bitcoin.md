@@ -37,16 +37,16 @@ Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://b
 | [Sparrow](https://www.sparrowwallet.com/) | Eine beliebte Alternative zu Electrum auf dem Desktop PC. |
 
 ### Handel
-Das sind Börsen im CHF/BTC Markt, die ich kenne, alphabetisch sortiert:
+Das sind Börsen im CHF/BTC Markt, die ich kenne und ausprobiert habe, alphabetisch sortiert:
 
 | Börse | Bemerkungen |
 | --- | --- |
 | [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Für fortgeschrittene User eine sehr gute Lösung. |
-| [Bitpanda](https://www.bitpanda.com/) | Gebühren im Handelspreis inkludiert. KYC-Prozess notwendig. Zentralisierter Exchange, Einzahlungen mit Banktransfer oder Kreditkarte möglich. Transfer auf das eigene Wallet kostet relativ viel, wird aber schnell durchgeführt. |
+| [Bitpanda](https://www.bitpanda.com/) | Gebühren im Handelspreis inkludiert. KYC-Prozess notwendig. Zentralisierter Exchange, Einzahlungen mit Banktransfer oder Kreditkarte möglich. Automatisierte Einkäufe möglich. Transfer auf Hardware Wallet manuell möglich. Geringe Privatsphäre aber grosser Komfort. |
 | [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess notwendig. Bei jeder Transaktion ist eine Nachricht zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User eine gute Lösung. |
 | [Pocket](https://pocketbitcoin.com/de) | Hohe Gebühren von 1.5%. Erlaubt den Kauf von BTC in Beträgen bis zu 1000 CHF pro Tag ohne KYC. Eine Nachricht muss signiert werden, Nach dem Banktransfer gehen die BTC direkt in dein Wallet. |
-| [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine sehr gute Lösung. |
-| [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel ohne KYC mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. |
+| [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine gute Lösung. |
+| [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel ohne KYC mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. Eine Möglichkeit für erfahrene Benutzer. |
 | [SBB](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-billettautomaten/bitcoin.html) | Am SBB Automat kann ein Paper Wallet gekauft werden. KYC über eine Telefonnummer. Gebühren sind sehr hoch. |
 | [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Ich würde diese Börse nicht empfehlen. |
 
