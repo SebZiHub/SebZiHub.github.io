@@ -1,97 +1,84 @@
 ### Bitcoin
-Folgende Aspekte machen eine Währung aus:
 
-- Austauschbarkeit: Kann die Währung problemlos gegen andere Güter oder Währungen getauscht werden?
-- Transferierbarkeit: Ist die Währung einfach und schnell von einer Person zur anderen übertragbar?
-- Haltbarkeit: Bleibt die Währung langfristig erhalten, ohne an Wert oder Funktionalität zu verlieren?
-- Teilbarkeit: Kann die Währung in kleinere Einheiten aufgeteilt werden, um auch kleinere Transaktionen zu ermöglichen?
-- Fälschungssicherheit: Kann die Währung vor Nachahmung oder Manipulation geschützt werden?
-- Knappheit: Ist die Menge der Währung begrenzt, um ihren Wert zu erhalten?
-- Zensurresistenz: Kann die Nutzung der Währung durch Dritte verhindert oder eingeschränkt werden?
-- Akzeptanz: Wird die Währung von anderen als Zahlungsmittel anerkannt und genutzt?
+Auszüge vom [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/).
 
-In der Menschheitsgeschichte gab es viele Währungen, die diese Kriterien mehr oder weniger gut erfüllten. Bitcoin ist die erste digitale Währung, die all diese Kriterien erfüllt. 
+> From: Satoshi Nakamoto
+> Subject: Bitcoin P2P e-cash paper
+> Date: October 31, 2008 at 18:10:00 UTC
 
-Deshalb ist Bitcoin die stärkste Währung unserer Zeit. Abgesehen davon ist es auch technisch faszinierend: Bitcoin kombiniert verschiedene Konzepte wie das Hashing als Proof of Work, die Blockchain, das Difficulty Adjustment, das Halving und das Konzept der asymmetrischen Verschlüsselung. Das schafft eine Währung, die dezentralisiert, sicher, limitiert, unzerstörbar, zensurresistent und nicht manipulierbar ist.
+I've been working on a new electronic cash system that's fully
+peer-to-peer, with no trusted third party.
 
-### Einfach erklärt 
+The paper is available at:
+http://www.bitcoin.org/bitcoin.pdf
 
-| Thema | Video |
-| --- | --- |
-| Wieso die Welt Bitcoin braucht | [YouTube](https://www.youtube.com/watch?v=6pNgWuQDe5s) |
-| Besitzt Bitcoin einen intrinsischen Wert? | [YouTube](https://www.youtube.com/watch?v=t22IGNpUmj0) |
-| Wie eine Blockchain funktioniert | [YouTube](https://www.youtube.com/watch?v=SSo_EIwHSd4) |
-| Bitcoin einfach erklärt | [YouTube](https://www.youtube.com/watch?v=s4g1XFU8Gto) |
-| Das Lightning Netzwerk erklärt | [YouTube](https://www.youtube.com/watch?v=rrr_zPmEiME) |
-| Wie ein Bitcoin Wallet funktioniert | [YouTube](https://www.youtube.com/watch?v=GSTiKjnBaes) |
+The main properties:
+Double-spending is prevented with a peer-to-peer network.
+No mint or other trusted parties.
+Participants can be anonymous.
+New coins are made from Hashcash style proof-of-work.
+The proof-of-work for new coin generation also powers the
+network to prevent double-spending.
 
-### Wallets
-Ein Wallet sollte immer gesichert werden. Was das bedeutet, ist [hier](https://bitcoin.org/de/sichern-sie-ihre-wallet) gut beschrieben. Es stehen verschiedene Wallets zur [Auswahl](https://bitcoin.org/de/waehlen-sie-ihre-wallet?step=5). Das sind Wallets, die ich kenne, alphabetisch sortiert:
+Bitcoin: A Peer-to-Peer Electronic Cash System
 
-| Wallet | Bemerkungen |
-| --- | --- |
-| [Bitcoin Wallet](https://bitcoin.org/de/wallets/mobile/android/bitcoinwallet/ ) | Eignet sich gut als einfaches Hot Wallet auf dem Smartphone für etwas Kleingeld. Es kann auch direkt Paper Wallets leeren. |
-| [BlueWallet](https://bluewallet.io/) | Es kann als Hot Wallet verwendet werden, mit LN, aber auch als Watch-Only. Eignet sich gut zum Leeren von Paper Wallets. Meiner Erfahrung nach ist es etwas träge und deshalb nicht mein Favorit. |
-| [Electrum](https://electrum.org/#download) | Läuft auf dem Smartphone oder Desktop PC. Kann als Cold Wallet (inkl. Hardware Wallet oder in einem Tails OS), Hot Wallet oder Watch-Only verwendet werden. Es hat nicht das beste Aussehen aber ein langjähriges Bestehen in der Open Source Community. |
-| [Phoenix](https://phoenix.acinq.co/) | Als Hot Wallet für etwas Kleingeld sicher eine gute Lösung. Unterstützt das Lightning Netzwerk und verwaltet Kanäle automatisch. |
-| [Sparrow](https://www.sparrowwallet.com/) | Eine beliebte Alternative zu Electrum auf dem Desktop PC. |
+Abstract. A purely peer-to-peer version of electronic cash would
+allow online payments to be sent directly from one party to another
+without the burdens of going through a financial institution.
+Digital signatures provide part of the solution, but the main
+benefits are lost if a trusted party is still required to prevent
+double-spending. We propose a solution to the double-spending
+problem using a peer-to-peer network. The network timestamps
+transactions by hashing them into an ongoing chain of hash-based
+proof-of-work, forming a record that cannot be changed without
+redoing the proof-of-work. The longest chain not only serves as
+proof of the sequence of events witnessed, but proof that it came
+from the largest pool of CPU power. As long as honest nodes control
+the most CPU power on the network, they can generate the longest
+chain and outpace any attackers. The network itself requires
+minimal structure. Messages are broadcasted on a best effort basis,
+and nodes can leave and rejoin the network at will, accepting the
+longest proof-of-work chain as proof of what happened while they
+were gone.
 
-### Handel
-Das sind Börsen im CHF/BTC Markt, die ich kenne und ausprobiert habe, alphabetisch sortiert:
+Full paper at:
+http://www.bitcoin.org/bitcoin.pdf
 
-| Börse | Bemerkungen |
-| --- | --- |
-| [Bisq](https://bisq.network/) | Dezentralisierter Handel, privat, sicher und ohne KYC. Für fortgeschrittene User eine sehr gute Lösung. |
-| [Bitpanda](https://www.bitpanda.com/) | Gebühren im Handelspreis inkludiert. KYC-Prozess notwendig. Zentralisierter Exchange, Einzahlungen mit Banktransfer oder Kreditkarte möglich. Automatisierte Einkäufe möglich. Transfer auf Hardware Wallet manuell möglich. Geringe Privatsphäre aber grosser Komfort. |
-| [Bity](https://bity.com/) | Gebühren von ca. 0.8% und einer Transaktionsbeteiligung. KYC-Prozess notwendig. Bei jeder Transaktion ist eine Nachricht zu signieren, sofern eine Adresse nicht erneut verwendet wird. BTC ist nie auf dem Exchange. Für erfahrene User eine gute Lösung. |
-| [Pocket](https://pocketbitcoin.com/de) | Hohe Gebühren von 1.5%. Erlaubt den Kauf von BTC in Beträgen bis zu 1000 CHF pro Tag ohne KYC. Eine Nachricht muss signiert werden, Nach dem Banktransfer gehen die BTC direkt in dein Wallet. |
-| [Relai](https://relai.app/de/) | Mit dem Empfehlungsprogramm, DCA und einem gutem Volumen kriegst du BTC mit fix 1% Gebühren. BTC lassen sich optional direkt in dein externes Wallet senden, wobei die Zieladresse nach der Signatur wiederverwendet wird. Für Neulinge eine gute Lösung. |
-| [RoboSats](https://learn.robosats.com/) | Dezentralisierter Handel ohne KYC mit Zahlungen über das Lightning Network. Eignet sich gut für eher kleine Beträge. Eine Möglichkeit für erfahrene Benutzer. |
-| [SBB](https://www.sbb.ch/de/reiseinformationen/bahnhoefe/services-billettautomaten/bitcoin.html) | Am SBB Automat kann ein Paper Wallet gekauft werden. KYC über eine Telefonnummer. Gebühren sind sehr hoch. |
-| [SwissBorg](https://swissborg.com/) | Hohe Gebühren von ca. 1.48%. KYC-Prozess aufwendig. Ich würde diese Börse nicht empfehlen. |
+Satoshi Nakamoto
 
-Eine Übersicht weiterer Börsen findest du [hier](https://bitcoin.org/de/boersen) und [hier](https://kycnot.me/?t=exchange&q=&btc=on&fiat=on).
+> From: Hal Finney
+> Subject: Bitcoin P2P e-cash paper
+> Date: November 7, 2008 at 23:40:12 UTC
 
-### Häufig gestellte Fragen
+Bitcoin seems to be a very promising idea. I like the idea of basing
+security on the assumption that the CPU power of honest participants
+outweighs that of the attacker. It is a very modern notion that exploits
+the power of the long tail. When Wikipedia started I never thought it
+would work, but it has proven to be a great success for some of the
+same reasons.
 
-> Soll ich investieren?
+I also do think that there is potential value in a form of unforgeable
+token whose production rate is predictable and can't be influenced
+by corrupt parties. This would be more analogous to gold than to fiat
+currencies. Nick Szabo wrote many years ago about what he called "bit
+gold"[1] and this could be an implementation of that concept. There have
+also been proposals for building light-weight anonymous payment schemes on
+top of heavy-weight non-anonymous systems, so Bitcoin could be leveraged
+to allow for anonymity even beyond the mechanisms discussed in the paper.
 
-Ich sehe Bitcoin weniger als Investition, sondern mehr als eine starke und sichere Währung. Eine Währung, die politischen Strukturen trotzen kann und gegen die Inflation schützt.
+[...]
 
-> Was ist mit anderen Kryptowährungen?
+Sorry about all the questions, but as I said this does seem to be a
+very promising and original idea, and I am looking forward to seeing
+how the concept is further developed. It would be helpful to see a more
+process oriented description of the idea, with concrete details of the
+data structures for the various objects (coins, blocks, transactions),
+the data which is included in messages, and algorithmic descriptions
+of the procedures for handling the various events which would occur in
+this system. You mentioned that you are working on an implementation,
+but I think a more formal, text description of the system would be a
+helpful next step.
 
-Andere Kryptowährungen behaupten, dass sie Transaktionen schneller verarbeiten als Bitcoin, deine Privatsphäre besser schützen als Bitcoin oder vielleicht weniger Ressourcen verbrauchen als Bitcoin. Tatsächlich ist aber Bitcoin der nächste Bitcoin, mehr braucht es nicht.
+Hal Finney
 
-"Wo liegt das Problem?" - Grössere Blöcke in der Blockchain ermöglichen mehr Transaktionen pro Sekunde, schädigen aber die Sicherheit und die Unveränderbarkeit der Währung. "Proof of Stake" begünstigt Personen, die bereits viele Coins besitzen, und das ist bei einem Pre-Mine besonders unfair. Anonyme Kryptowährungen lohnt es sich nicht zu halten, da diese zu rasch an Wert verlieren. Kryptowährungen ohne fixe Geldmenge entwerten sich selber, wie das auch der CHF/USD/EUR machen. Stablecoins sind eine digitale Variante der jeweiligen Fiat-Währung, das bringt keinen Nutzen.
-
-Andere Kryptowährungen haben also fundamentale Probleme. Bitcoin kombiniert bereits verschiedene Konzepte optimal in der goldenen Mitte.
-
-> Ist es für mich nicht schon zu spät?
-
-Bitcoin hat ein faires Verteilungssystem. Seit dem ersten Block steht es allen Personen frei, Bitcoins zu schürfen ("minen") und sich am Netzwerk zu beteiligen. Die fixe Gesamtmenge und deren deflationäre Verteilung animieren die Teilnehmer, ihre Bitcoins zu halten und nur auszugeben, wenn es auch wirklich sinnvoll ist. Diese Faktoren lassen den Bitcoin tendenziell an Wert steigen, gegenüber USD/EUR/CHF etc. 
-
-Im Gegensatz stehen die Fiatwährungen: Die Reichen werden reicher und du wirst durch das Halten von CHF nur noch ärmer. Deine 10.- CHF kaufen morgen weniger als heute. Du kannst heute beginnen, einen Bruchteil deines Vermögens in Bitcoin umzuwandeln, auch wenn es nur ein Bruchteil eines Bitcoins ist. Dieses Vermögen wird nicht mehr entwertet. Das Prinzip gilt für alle. Es ist also nie zu spät.
-
-> Niemand braucht heute Bitcoin - macht es überhaupt Sinn Bitcoin zu kaufen?
-
-Das Internet war damals ein kleines Netzwerk zwischen Universitäten und genutzt wurde es nur von sehr wenigen Personen. Die Nutzung war umständlich und es waren viele Kenntnisse erforderlich. Heute ist das Internet für jede Person sehr einfach zugänglich. Ein User braucht nicht zu wissen, wie die unterliegenden Protokolle funktionieren.
-
-In Zukunft wird es mit BTC ähnlich sein. Die Benutzung wird einfacher werden und mit verschiedenen Erweiterungen, wie beispielsweise das Lightning Network, wird sich auch die Akzeptanz ausweiten. BTC ist hier um zu bleiben.
-
-> OK, ich bin dabei. Wie fange ich an?
-
-Ich empfehle generell die [DCA](https://dcabtc.com/) Strategie. Bei dieser Strategie kauft man regelmässig BTC, unabhängig vom Preis. Diese Strategie schützt dein Vermögen langfristig. Meiner Erfahrung nach bereitet sie auch am wenigsten Kopfzerbrechen. Die Umsetzung kann sehr einfach sein: monatlich, direkt nach dem Zahltag, kaufst du BTC mit der gleichen Menge CHF. Fertig.
-
-> Warum ist KYC ein Problem?
-
-KYC bedeutet "Know Your Customer". Alle Börsen mit einem KYC-Prozess fragen dich nach deinen Personalien und bitten dich, eine Nachricht mit deiner Empfangsadresse zu signieren, bevor sie dir BTC verkaufen. Diese Prozedur hat einen regulatorischen Hintergrund.
-
-Ich sehe hauptsächlich zwei Gründe, weshalb KYC problematisch sein kann. Auf der einen Seite werden in diesem Prozess persönliche Daten durch den Anbieter elektronisch verarbeitet, analysiert und gespeichert. Inwiefern der Anbieter dabei die Daten angemessen schützt, ist fraglich. Mit anderen Worten: nach einem Hack oder fahrlässigem Umgang mit deinen Daten landen diese in den Händen böswilliger Akteure. Auf der anderen Seite ermöglicht dieser Prozess einem Anbieter oder einer Regierung die Zuordnung von Personen zu BTC-Transaktionen. Eine Überwachung auf dieser Ebene kann eine Gefährdung für Personen darstellen.
-
-Welchem Anbieter persönliche Daten anvertraut werden, sollte gut abgewogen werden.
-
-### HODL
-
-> What are you trying to tell me, that I can trade my Bitcoin for millions someday?
-
-> No, Neo. I'm trying to tell you that when you're ready, you won't have to.
+[1] http://unenumerated.blogspot.com/2005/12/bit-gold.html
