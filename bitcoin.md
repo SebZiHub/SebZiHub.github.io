@@ -3,14 +3,16 @@
 Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/).
 
 **From: Satoshi Nakamoto**
+
 **Subject: Bitcoin P2P e-cash paper**
+
 **Date: October 31, 2008 at 18:10:00 UTC**
 
 I've been working on a new electronic cash system that's fully
 peer-to-peer, with no trusted third party.
 
 The paper is available at:
-http://www.bitcoin.org/bitcoin.pdf
+[http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
 The main properties:
 Double-spending is prevented with a peer-to-peer network.
@@ -42,6 +44,6 @@ longest proof-of-work chain as proof of what happened while they
 were gone.
 
 Full paper at:
-http://www.bitcoin.org/bitcoin.pdf
+[http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
 Satoshi Nakamoto
