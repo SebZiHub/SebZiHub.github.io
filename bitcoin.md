@@ -1,7 +1,5 @@
 ### Bitcoin
 
-Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/crash-course/):
-
 **From: Satoshi Nakamoto**<br/>
 **Subject: Bitcoin P2P e-cash paper**<br/>
 **Date: October 31, 2008 at 18:10:00 UTC**
@@ -42,8 +40,6 @@ were gone.
 Full paper at:<br/>
 [http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
-Satoshi Nakamoto
-
 ```
 00000000   01 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
 00000010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
@@ -64,3 +60,5 @@ Satoshi Nakamoto
 00000100   F3 55 04 E5 1E C1 12 DE  5C 38 4D F7 BA 0B 8D 57   óU.å.Á.Þ\8M÷º..W
 00000110   8A 4C 70 2B 6B F1 1D 5F  AC 00 00 00 00            ŠLp+kñ._¬....
 ```
+
+_[The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/crash-course/)_
