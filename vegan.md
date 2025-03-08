@@ -4,3 +4,5 @@ Als Junge wuchs ich inmitten von Tieren auf, unsere Katze war ein geliebtes Fami
 Eines Tages stiess ich auf Videos, die die Schattenseiten der Industrie zeigten. Ich sah, wie Tiere geschlachtet wurden, wie Kühe für Milch besamt und Kälber für "zartes" Fleisch angekettet wurden. Hühner, die nicht mehr laufen konnten, weil sie für ihre Eier gemästet wurden. In ihren Augen las ich Angst und den Wunsch nach Freiheit – wie die Katzen, die ich so sehr liebte.
 
 Dieser Anblick veränderte mich. Ich beschloss, Fleisch zu meiden – ein erster Schritt. Mit der Zeit wurde ich vegan. Für mich gibt es keine Nutztiere mehr; ich sehe Tiere als unsere Mitbewohner auf dieser Erde, nicht als Ressourcen. Auch wenn viele das nicht verstehen, möchte ich nur das teilen, was mein Herz bewegt hat.
+
+[watchdominion.org](https://watchdominion.org/)
