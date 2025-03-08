@@ -1,6 +1,6 @@
 ### Bitcoin
 
-Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/):
+Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/crash-course/):
 
 **From: Satoshi Nakamoto**<br/>
 **Subject: Bitcoin P2P e-cash paper**<br/>
