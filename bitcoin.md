@@ -2,25 +2,21 @@
 
 Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/):
 
-**From: Satoshi Nakamoto**
-
-**Subject: Bitcoin P2P e-cash paper**
-
+**From: Satoshi Nakamoto**<br/>
+**Subject: Bitcoin P2P e-cash paper**<br/>
 **Date: October 31, 2008 at 18:10:00 UTC**
 
-I've been working on a new electronic cash system that's fully
-peer-to-peer, with no trusted third party.
+I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party.
 
-The paper is available at:
+The paper is available at:<br/>
 [http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
-The main properties:
-Double-spending is prevented with a peer-to-peer network.
-No mint or other trusted parties.
-Participants can be anonymous.
-New coins are made from Hashcash style proof-of-work.
-The proof-of-work for new coin generation also powers the
-network to prevent double-spending.
+The main properties:<br/>
+Double-spending is prevented with a peer-to-peer network.<br/>
+No mint or other trusted parties.<br/>
+Participants can be anonymous.<br/>
+New coins are made from Hashcash style proof-of-work.<br/>
+The proof-of-work for new coin generation also powers the network to prevent double-spending.
 
 Bitcoin: A Peer-to-Peer Electronic Cash System
 
@@ -43,7 +39,7 @@ and nodes can leave and rejoin the network at will, accepting the
 longest proof-of-work chain as proof of what happened while they
 were gone.
 
-Full paper at:
+Full paper at:<br/>
 [http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
 Satoshi Nakamoto
