@@ -7,7 +7,7 @@ und ich denke manchmal daran.
 
 ### Interessen
 - [Veganismus](./vegan.html): Eine Philosophie, die mein Leben prägt (Für Aktivisten\*innen: [AARS](https://anonymousforanimalrights.ch))
-- [Bitcoin](./bitcoin.html): Die stärkste Währung unserer Zeit
+- [Bitcoin](./bitcoin.html): Ein elektronisches Peer-to-Peer-Cash-System
 
 ### Kontakt
 Via Noster:
