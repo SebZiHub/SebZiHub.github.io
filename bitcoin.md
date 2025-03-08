@@ -1,6 +1,6 @@
 ### Bitcoin
 
-Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/).
+Aus dem [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/):
 
 **From: Satoshi Nakamoto**
 
