@@ -6,7 +6,7 @@ Das hat mal jemand gesagt:
 und ich denke manchmal daran.
 
 ### Interessen
-- [Veganismus](./vegan.html) (Für Aktivisten\*innen: [AARS](https://anonymousforanimalrights.ch))
+- [Veganismus](./vegan.html)
 - [Bitcoin](./bitcoin.html)
 
 ### Kontakt
