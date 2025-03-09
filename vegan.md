@@ -5,5 +5,5 @@ Eines Tages stiess ich auf Videos, die die Schattenseiten der Industrie zeigten.
 
 Dieser Anblick veränderte mich. Ich beschloss, Fleisch zu meiden – ein erster Schritt. Mit der Zeit wurde ich vegan. Für mich gibt es keine Nutztiere mehr; ich sehe Tiere als unsere Mitbewohner auf dieser Erde, nicht als Ressourcen. Auch wenn viele das nicht verstehen, möchte ich nur das teilen, was mein Herz bewegt hat.
 
-[watchdominion.org](https://watchdominion.org/)
+[watchdominion.org](https://watchdominion.org/)<br/>
 Für Aktivisten\*innen: [AARS](https://anonymousforanimalrights.ch)
