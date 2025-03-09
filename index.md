@@ -1,13 +1,13 @@
 ### HELLO WORLD 
 Das hat mal jemand gesagt:
 
-> In der Hoffnung, den Mond zu erreichen, vergisst der Mensch, auf die Blumen zu schauen, die zu seinen Füssen blühen
+> Der wahre Kampf wird im Inneren ausgetragen
 
 und ich denke manchmal daran.
 
 ### Interessen
-- [Veganismus](./vegan.html): Eine Philosophie, die mein Leben prägt (Für Aktivisten\*innen: [AARS](https://anonymousforanimalrights.ch))
-- [Bitcoin](./bitcoin.html): Ein elektronisches Peer-to-Peer-Cash-System
+- [Veganismus](./vegan.html) (Für Aktivisten\*innen: [AARS](https://anonymousforanimalrights.ch))
+- [Bitcoin](./bitcoin.html)
 
 ### Kontakt
 Via Noster:
