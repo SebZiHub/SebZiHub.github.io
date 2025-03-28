@@ -65,4 +65,8 @@ Full paper at:<br/>
 00000110   8A 4C 70 2B 6B F1 1D 5F  AC 00 00 00 00            ŠLp+kñ._¬....
 ```
 
+#### Die Zukunft
+
+![BTC Matrix](./assets/img/btc-matrix.jpg "BTC Matrix")
+
 [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
