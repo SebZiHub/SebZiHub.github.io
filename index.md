@@ -10,7 +10,7 @@ und ich denke manchmal daran.
 - [Bitcoin](./bitcoin.html)
 
 ### Kontakt
-Via Noster:
+Via Nostr:
 
 ```
 npub1tfykeyjrpep3ta3gp7c2rggh7lw60xywpqgsznhnlwwflt33zyus5dprn8
