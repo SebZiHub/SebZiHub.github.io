@@ -1,7 +1,5 @@
 ### Bitcoin
 
-#### Die Idee
-
 **From: Satoshi Nakamoto**<br/>
 **Subject: Bitcoin P2P e-cash paper**<br/>
 **Date: October 31, 2008 at 18:10:00 UTC**
@@ -42,8 +40,6 @@ were gone.
 Full paper at:<br/>
 [http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
-#### Der Anfang
-
 ```
 00000000   01 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
 00000010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
@@ -65,8 +61,6 @@ Full paper at:<br/>
 00000110   8A 4C 70 2B 6B F1 1D 5F  AC 00 00 00 00            ŠLp+kñ._¬....
 ```
 
-#### Die Zukunft
-
-![BTC Matrix](./assets/img/btc-matrix.jpg "BTC Matrix")
+> If you don't believe me or don't get it, I don't have time to try to convince you, sorry.
 
 [The Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
