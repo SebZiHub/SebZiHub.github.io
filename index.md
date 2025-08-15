@@ -10,13 +10,7 @@ und ich denke manchmal daran.
 - [Bitcoin](./bitcoin.html)
 
 ### Kontakt
-Via Nostr:
-
-```
-npub1tfykeyjrpep3ta3gp7c2rggh7lw60xywpqgsznhnlwwflt33zyus5dprn8
-```
-
-Via Mail an `mail@sebastian-zimmermann.ch` verschlüsselt mit:
+Mail an `mail@sebastian-zimmermann.ch` verschlüsselt mit:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
