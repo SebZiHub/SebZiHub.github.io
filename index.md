@@ -5,9 +5,10 @@ Das hat mal jemand gesagt:
 
 und ich denke manchmal daran.
 
-### Interessen
+### Sitemap
 - [Veganismus](./vegan.html)
 - [Bitcoin](./bitcoin.html)
+- [CV](./cv.html)
 
 ### Kontakt
 Mail an `mail@sebastian-zimmermann.ch` verschlüsselt mit:
