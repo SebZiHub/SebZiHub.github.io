@@ -6,9 +6,9 @@ Das hat mal jemand gesagt:
 und ich denke manchmal daran.
 
 ### Sitemap
-- [Veganismus](./vegan.html)
 - [Bitcoin](./bitcoin.html)
 - [CV](./cv.html)
+- [Veganismus](./vegan.html)
 
 ### Kontakt
 Mail an `mail@sebastian-zimmermann.ch` verschlüsselt mit:
