@@ -8,7 +8,7 @@ und ich denke manchmal daran.
 ### Sitemap
 - [Bitcoin](./bitcoin.html)
 - [CV](./cv.html)
-- [Veganismus](./vegan.html)
+- [Vegan](./vegan.html)
 
 ### Kontakt
 Mail an `mail@sebastian-zimmermann.ch` verschlüsselt mit:
