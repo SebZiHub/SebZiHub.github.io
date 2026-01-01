@@ -7,7 +7,6 @@ und ich denke manchmal daran.
 
 ### Sitemap
 - [Bitcoin](./bitcoin.html)
-- [CV](./cv.html)
 - [Vegan](./vegan.html)
 
 ### Kontakt
