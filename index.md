@@ -30,4 +30,4 @@ pzAA/Al+03xTSZIxUtOKNUZe47pjHKamCGYNfk/CfzGBG5kJ
 
 
 
-[Bitcoin](./bitcoin.html) | [Vegan](./vegan.html)
+[Bitcoin](./bitcoin.html) / [Vegan](./vegan.html)
