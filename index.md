@@ -5,10 +5,6 @@ Das hat mal jemand gesagt:
 
 und ich denke manchmal daran.
 
-### Sitemap
-- [Bitcoin](./bitcoin.html)
-- [Vegan](./vegan.html)
-
 ### Kontakt
 Mail an `mail@sebastian-zimmermann.ch` verschlüsselt mit:
 
@@ -31,3 +27,7 @@ pzAA/Al+03xTSZIxUtOKNUZe47pjHKamCGYNfk/CfzGBG5kJ
 =UgMb
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+
+
+[Bitcoin](./bitcoin.html) | [Vegan](./vegan.html)
